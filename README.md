@@ -6,7 +6,9 @@ Accede a:
 https://sofia1210.github.io/cifraPro/
 
 - Trabajo multigrupo para realizar el Cuestionario de preguntas
+- Revisa las preguntas
 https://cuestionario-5368c.web.app/
+- Accede al apartado de estadísticas
 https://cuestionario-5368c.web.app/Estadisticas/estadisticas.html
 * Visualiza la Presentación Colaborativa: https://www.canva.com/design/DAGOyU973i8/Chus7FW4jNAWC_DkAsz6ag/view?utm_content=DAGOyU973i8&utm_campaign=designshare&utm_medium=link&utm_source=viewer
 
