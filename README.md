@@ -19,10 +19,15 @@ https://cuestionario-5368c.web.app/Estadisticas/estadisticas.html
 - Login con verificación por teléfono (acceso con correo o mediante google)
 https://websoc-3c7b8.web.app/
 -----------------------------------------------------------
+- Página Web Mesivalle - Resultado del Primer Bootcamp
+https://villxfxni.github.io/mesivalle/
+* Visualiza la Presentación Colaborativa: https://www.canva.com/design/DAGQZxGyVeI/89Y1pJi14XPZ1oOcQj-3YA/view?utm_content=DAGQZxGyVeI&utm_campaign=designshare&utm_medium=link&utm_source=editor
+-----------------------------------------------------------
 - Generador de Mapas Mentales siguiendo el Método Trois
 https://trois-79d24.web.app
 -----------------------------------------------------------
 ***LEE LA DOCUMENTACIÓN Y DESCARGA LOS COMPRIMIBLES***
 https://drive.google.com/drive/folders/13ePgYnBl9gUwh2xnlqrq03YGRFS88wNj?usp=sharing
-* En la carpeta encontrarás el resto de trabajos realizados durante la asignatura
+* En la carpeta encontrarás el resto de trabajos realizados durante la asignatura:
+  Ensayos sobre Devin, Websim AI y Prompt
 
